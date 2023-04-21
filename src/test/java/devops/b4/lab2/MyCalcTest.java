@@ -14,7 +14,7 @@ public class MyCalcTest {
 		
  
          assertEquals(25, ob.sum(20, 5));
-         assertEquals(100, ob.mul(20, 5));
+         assertEquals(110, ob.mul(20, 5));
          
 	}
    
